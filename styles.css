@@ -1,0 +1,11 @@
+img {
+    height: 300px;
+    width: 400px;
+}
+.divBox {
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+    /* height: 300px;
+    width: 400px; */
+}
